@@ -13,7 +13,7 @@
 Clone the repository and install dependencies:
 
 ```sh
-git clone https://github.com/yourusername/echosphere.git
+git clone https://github.com/kjarir/echosphere.git
 cd echosphere
 npm install
 ```
@@ -29,9 +29,8 @@ npm run dev
 Then, open **http://localhost:3000** in your browser.
 
 ## Tech Stack
-- **Next.js** – Framework for server-rendered React apps.
-- **React.js** – UI development.
-- **Tailwind CSS** – Styling framework.
+- **Next.js** – Framework for server-rendered applications.
+- **UI Component Library** – Pre-built UI components for seamless design.
 
 ## Notes
 - This is a **frontend-only** project with **mock data**.
