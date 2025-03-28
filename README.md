@@ -1,69 +1,48 @@
-# Welcome to your Lovable project
+# Echosphere
 
-## Project info
+**Echosphere** is a voice-based social application featuring live rooms with speaker control. Built with **Next.js**, this project provides a fully interactive UI with mock data but does not include backend functionality.
 
-**URL**: https://lovable.dev/projects/f80ed982-594c-433e-92cd-e764af93dba6
+## Features
+- **Live Voice Rooms**: Join rooms to engage in real-time discussions.
+- **Speaker Control**: Manage speakers and listeners dynamically.
+- **Mock Data**: The UI is fully functional with placeholder data.
+- **Built with Next.js**: Optimized for fast performance and smooth user experience.
 
-## How can I edit this code?
+## Installation
 
-There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/f80ed982-594c-433e-92cd-e764af93dba6) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
+Clone the repository and install dependencies:
 
 ```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+git clone https://github.com/yourusername/echosphere.git
+cd echosphere
+npm install
+```
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## Running the Project
 
-# Step 3: Install the necessary dependencies.
-npm i
+Start the development server with:
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+```sh
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+Then, open **http://localhost:3000** in your browser.
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## Tech Stack
+- **Next.js** – Framework for server-rendered React apps.
+- **React.js** – UI development.
+- **Tailwind CSS** – Styling framework.
 
-**Use GitHub Codespaces**
+## Notes
+- This is a **frontend-only** project with **mock data**.
+- No real-time functionality is implemented.
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+## Contribution
+Feel free to fork and contribute by improving UI components or integrating a backend!
 
-## What technologies are used for this project?
+## License
+This project is licensed under the **MIT License**.
 
-This project is built with .
+---
+Developed with ❤️ by **[Mohd Jarir]**
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/f80ed982-594c-433e-92cd-e764af93dba6) and click on Share -> Publish.
-
-## I want to use a custom domain - is that possible?
-
-We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
