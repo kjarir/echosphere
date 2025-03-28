@@ -4,7 +4,12 @@
 
 ## Features
 - **Live Voice Rooms**: Join rooms to engage in real-time discussions.
+- **Create & Schedule Rooms**: Users can create rooms instantly or schedule them for later.
 - **Speaker Control**: Manage speakers and listeners dynamically.
+- **Live Chat**: Engage in text-based conversations within the room.
+- **Reactions**: Express emotions using reactions in real-time.
+- **Host Identification**: Easily see who is hosting the session.
+- **Meeting Scheduling**: Plan and schedule meetings with ease.
 - **Mock Data**: The UI is fully functional with placeholder data.
 - **Built with Next.js**: Optimized for fast performance and smooth user experience.
 
@@ -43,5 +48,5 @@ Feel free to fork and contribute by improving UI components or integrating a bac
 This project is licensed under the **MIT License**.
 
 ---
-Developed with ❤️ by **[Mohd Jarir Khan]**
+Developed with ❤️ by **[Mohd Jarir]**
 
