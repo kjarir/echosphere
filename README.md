@@ -43,5 +43,5 @@ Feel free to fork and contribute by improving UI components or integrating a bac
 This project is licensed under the **MIT License**.
 
 ---
-Developed with ❤️ by **[Mohd Jarir]**
+Developed with ❤️ by **[Mohd Jarir Khan]**
 
